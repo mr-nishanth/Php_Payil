@@ -35,11 +35,12 @@
 	- We  can store number, text,file or images path etc..
 	- In Php,variable should start with $ symbol
 
-			RealWorld Example:
+		
+	```RealWorld Example:
       
-					E = m (c square)
-					Here m is variable
-					m = 5kg,10kg,15kg..
+	E = m (c square)
+	Here m is variable
+	m = 5kg,10kg,15kg..```
 
 
 
