@@ -40,7 +40,8 @@
       
 	E = m (c square)
 	Here m is variable
-	m = 5kg,10kg,15kg..```
+	m = 5kg,10kg,15kg..
+	```
 
 
 
